@@ -19,6 +19,6 @@ Natalia：娜塔莉娅
 RAG：LightRAG / GraphRAG
 硬件适配：RTX 3070 Ti Laptop 8GB（已验证）
 
-许可证：GNU General Public License v3.0
+许可证：GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007
 维护者：Misaka477
 联系方式：rapidsound@163.com
