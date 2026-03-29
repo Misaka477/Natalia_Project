@@ -9,7 +9,8 @@ Natalia：娜塔莉娅
 
 架构概览：
 
-<img width="2024" height="1077" alt="image" src="https://github.com/user-attachments/assets/c770d0b2-7fc8-4aad-a594-d0a2ef1e1b34" />
+<img width="1162" height="828" alt="8ea1d66de82f71badf352980889b3bee" src="https://github.com/user-attachments/assets/50adf112-dbaa-4b55-873f-0bcaffdd9368" />
+
 
 
 技术栈
